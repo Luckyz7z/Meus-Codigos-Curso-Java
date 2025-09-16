@@ -1,6 +1,9 @@
-public class Main {
+public class main {
     public static void main(String[] args) {
-        System.out.print("Olá mundo!");
+        int a = 3;
+        int b = 6;
+
+        System.out.print(b / a);
 
     }
 }
