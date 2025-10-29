@@ -9,6 +9,5 @@ public class Triangulo {
         double p = (a + b + c) / 2.0;
         double resultado = Math.sqrt(p *(p - a) * (p - b) * (p - c));
         return resultado;
-        topdemais
     }
 }
