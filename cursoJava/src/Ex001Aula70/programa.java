@@ -12,8 +12,11 @@ public class programa {
         rt.altura = sc.nextDouble();
         System.out.print("Digite a largura do retangulo: ");
         rt.largura = sc.nextDouble();
-        System.out.printf("Área: " + rt.area());
-        System.out.printf("Perimetro: "+ rt.perimetro());
+        System.out.printf("Área: %.2f", rt.area());
+        System.out.println();
+        System.out.printf("Perimetro: %.2f", rt.perimetro());
+        System.out.println();
+        System.out.printf("Diagonal: %.2f", rt.diagonal());
         sc.close();
     }
 }
