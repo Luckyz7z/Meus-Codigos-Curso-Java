@@ -1,4 +1,4 @@
-package Ex001Aula70;
+package Aula70Ex001;
 
 import java.util.Locale;
 import java.util.Scanner;

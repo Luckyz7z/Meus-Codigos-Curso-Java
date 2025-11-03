@@ -1,4 +1,4 @@
-package EstoqueAula67;
+package Aula67Ex001;
 
 public class estoque {
     public String nome;

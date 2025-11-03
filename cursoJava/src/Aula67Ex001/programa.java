@@ -1,4 +1,4 @@
-package EstoqueAula67;
+package Aula67Ex001;
 
 import java.util.Locale;
 import java.util.Scanner;

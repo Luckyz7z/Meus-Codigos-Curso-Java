@@ -1,4 +1,4 @@
-package Ex003Aula70;
+package Aula70Ex003;
 
 public class estudante {
     public double nota1;

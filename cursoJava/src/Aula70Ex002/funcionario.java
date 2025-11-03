@@ -1,4 +1,4 @@
-package Ex002Aula70;
+package Aula70Ex002;
 
 public class funcionario {
     public String nome;

@@ -1,4 +1,4 @@
-package Ex001Aula70;
+package Aula70Ex001;
 
 public class retangulo {
     public double largura;
