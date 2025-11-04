@@ -18,6 +18,7 @@ public class Programa {
         double valorReais = calculoDolar(valorDolar, quantidadeDolar);
 
         System.out.printf("Valor a pagar em reais com a taxa: %.2f", valorReais);
+        sc.close();
     }
 }
 
