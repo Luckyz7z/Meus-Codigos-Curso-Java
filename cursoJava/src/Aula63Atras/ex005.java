@@ -1,3 +1,5 @@
+package Aula63Atras;
+
 import java.util.Scanner;
 
 public class ex005 {
